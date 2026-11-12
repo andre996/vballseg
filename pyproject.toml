@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vballseg"
+version = "0.1.0"
+description = "CPU-friendly volleyball video segmentation: rallies, players/ball masks, actions, court zones"
+requires-python = ">=3.9"
+dependencies = [
+  "ultralytics>=8.3",
+  "opencv-python>=4.8",
+  "numpy>=1.24",
+  "lap>=0.5.12",
+]
+
+[project.scripts]
+vballseg = "vballseg.cli:main"
+
+[tool.setuptools]
+packages = ["vballseg"]

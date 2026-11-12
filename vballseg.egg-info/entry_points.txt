@@ -1,0 +1,2 @@
+[console_scripts]
+vballseg = vballseg.cli:main

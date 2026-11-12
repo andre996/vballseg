@@ -1,0 +1,123 @@
+{
+ "rallies": [
+  {
+   "start": 4.0,
+   "end": 11.1
+  },
+  {
+   "start": 18.0,
+   "end": 25.1
+  },
+  {
+   "start": 32.0,
+   "end": 39.1
+  }
+ ],
+ "events": [
+  {
+   "t": 4.0,
+   "type": "serve",
+   "side": "A"
+  },
+  {
+   "t": 5.5,
+   "type": "receive",
+   "side": "B"
+  },
+  {
+   "t": 6.6,
+   "type": "set",
+   "side": "B"
+  },
+  {
+   "t": 7.6,
+   "type": "attack",
+   "side": "B"
+  },
+  {
+   "t": 8.3,
+   "type": "dig",
+   "side": "A"
+  },
+  {
+   "t": 9.4,
+   "type": "set",
+   "side": "A"
+  },
+  {
+   "t": 10.4,
+   "type": "attack",
+   "side": "A"
+  },
+  {
+   "t": 18.0,
+   "type": "serve",
+   "side": "A"
+  },
+  {
+   "t": 19.5,
+   "type": "receive",
+   "side": "B"
+  },
+  {
+   "t": 20.6,
+   "type": "set",
+   "side": "B"
+  },
+  {
+   "t": 21.6,
+   "type": "attack",
+   "side": "B"
+  },
+  {
+   "t": 22.3,
+   "type": "dig",
+   "side": "A"
+  },
+  {
+   "t": 23.4,
+   "type": "set",
+   "side": "A"
+  },
+  {
+   "t": 24.4,
+   "type": "attack",
+   "side": "A"
+  },
+  {
+   "t": 32.0,
+   "type": "serve",
+   "side": "A"
+  },
+  {
+   "t": 33.5,
+   "type": "receive",
+   "side": "B"
+  },
+  {
+   "t": 34.6,
+   "type": "set",
+   "side": "B"
+  },
+  {
+   "t": 35.6,
+   "type": "attack",
+   "side": "B"
+  },
+  {
+   "t": 36.3,
+   "type": "dig",
+   "side": "A"
+  },
+  {
+   "t": 37.4,
+   "type": "set",
+   "side": "A"
+  },
+  {
+   "t": 38.4,
+   "type": "attack",
+   "side": "A"
+  }
+ ]
+}

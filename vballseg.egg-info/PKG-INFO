@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: vballseg
+Version: 0.1.0
+Summary: CPU-friendly volleyball video segmentation: rallies, players/ball masks, actions, court zones
+Requires-Python: >=3.9
+Requires-Dist: ultralytics>=8.3
+Requires-Dist: opencv-python>=4.8
+Requires-Dist: numpy>=1.24
+Requires-Dist: lap>=0.5.12
