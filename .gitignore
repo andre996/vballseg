@@ -1,1 +1,6 @@
 .venv/
+out/
+out_v2/
+test_normal/
+*.mp4
+*.pt
